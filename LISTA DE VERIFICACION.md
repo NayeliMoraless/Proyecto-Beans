@@ -15,12 +15,12 @@ Este documento sirve como guía para auditar el código, la documentación y la 
 
 | ID   | Criterio de Verificación | Descripción | Estado |
 |------|--------------------------|-------------|--------|
-| C-1.1 | Manejo de Transacciones y Firmas | ¿Se validó que las transacciones estén construidas y firmadas correctamente, evitando fallos en escenarios de multifirma? | [ ] Pendiente |
-| C-1.2 | Validación de Entradas (UX y API) | ¿Se validan direcciones de billetera, montos y memos tanto en frontend como en backend? | [ ] Pendiente |
-| C-1.3 | Uso de Claves Privadas | ¿El manejo de claves privadas es seguro y nunca se almacenan en el servidor? | [ ] Pendiente |
-| C-1.4 | Gestión de Cuentas y Trustlines | ¿Se maneja correctamente la creación de cuentas, trustlines y tarifas de transacción? | [ ] Pendiente |
-| C-1.5 | Integración con Soroban | ¿Los contratos inteligentes están validados en sus llamadas, datos y eventos en la cadena? | [ ] Pendiente |
-| C-1.6 | Gestión de Errores con Horizon API | ¿Se han implementado mensajes claros ante fallos en la API de Horizon? | [ ] Pendiente |  
+| C-1.1 | Manejo de Transacciones y Firmas | ¿Se validó que las transacciones estén construidas y firmadas correctamente, evitando fallos en escenarios de multifirma? |  Pendiente |
+| C-1.2 | Validación de Entradas (UX y API) | ¿Se validan direcciones de billetera, montos y memos tanto en frontend como en backend? | Pendiente |
+| C-1.3 | Uso de Claves Privadas | ¿El manejo de claves privadas es seguro y nunca se almacenan en el servidor? | Pendiente |
+| C-1.4 | Gestión de Cuentas y Trustlines | ¿Se maneja correctamente la creación de cuentas, trustlines y tarifas de transacción? | Pendiente |
+| C-1.5 | Integración con Soroban | ¿Los contratos inteligentes están validados en sus llamadas, datos y eventos en la cadena? | Pendiente |
+| C-1.6 | Gestión de Errores con Horizon API | ¿Se han implementado mensajes claros ante fallos en la API de Horizon? | Pendiente |  
 
 ---
 
@@ -28,10 +28,10 @@ Este documento sirve como guía para auditar el código, la documentación y la 
 
 | ID   | Criterio de Verificación | Descripción | Estado |
 |------|--------------------------|-------------|--------|
-| D-2.1 | Guía de Configuración Completa | ¿Existe documentación clara para instalar, configurar y ejecutar el proyecto? | [ ] Pendiente |
-| D-2.2 | Diagramas de Arquitectura | ¿Se incluye un diagrama de alto nivel de la app y su interacción con Stellar? | [ ] Pendiente |
-| D-2.3 | Documentación de la API (SEP) | ¿Se documenta el uso de SEPs aplicados (ej. SEP-24)? | [ ] Pendiente |
-| D-2.4 | Manual de Usuario | ¿Existe un manual simple para usuarios no técnicos sobre el uso de la billetera? | [ ] Pendiente |  
+| D-2.1 | Guía de Configuración Completa | ¿Existe documentación clara para instalar, configurar y ejecutar el proyecto? | Pendiente |
+| D-2.2 | Diagramas de Arquitectura | ¿Se incluye un diagrama de alto nivel de la app y su interacción con Stellar? | Pendiente |
+| D-2.3 | Documentación de la API (SEP) | ¿Se documenta el uso de SEPs aplicados (ej. SEP-24)? |Pendiente |
+| D-2.4 | Manual de Usuario | ¿Existe un manual simple para usuarios no técnicos sobre el uso de la billetera? | Pendiente |  
 
 ---
 
@@ -39,10 +39,10 @@ Este documento sirve como guía para auditar el código, la documentación y la 
 
 | ID   | Criterio de Verificación | Descripción | Estado |
 |------|--------------------------|-------------|--------|
-| E-3.1 | Licencia de Código Abierto | ¿El proyecto incluye una licencia (ej. MIT/Apache 2.0) para auditoría pública? | [ ] Pendiente |
-| E-3.2 | Política de Privacidad y Términos de Servicio | ¿Existen documentos publicados para el manejo de datos personales? | [ ] Pendiente |
-| E-3.3 | Canales de Comunicación | ¿Se especifican canales claros (Discord, Telegram, GitHub) para soporte? | [ ] Pendiente |
-| E-3.4 | Alineación con la SCF | ¿Se destaca cómo la solución contribuye a inclusión financiera y pagos transfronterizos? | [ ] Pendiente |  
+| E-3.1 | Licencia de Código Abierto | ¿El proyecto incluye una licencia (ej. MIT/Apache 2.0) para auditoría pública? |  Pendiente |
+| E-3.2 | Política de Privacidad y Términos de Servicio | ¿Existen documentos publicados para el manejo de datos personales? | Pendiente |
+| E-3.3 | Canales de Comunicación | ¿Se especifican canales claros (Discord, Telegram, GitHub) para soporte? | Pendiente |
+| E-3.4 | Alineación con la SCF | ¿Se destaca cómo la solución contribuye a inclusión financiera y pagos transfronterizos? |  Pendiente |  
 
 ---
 
