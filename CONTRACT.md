@@ -24,7 +24,6 @@ Los productos mínimos acordados por el equipo son:
 | **Nancy Olivera** | Desarrollo y Pruebas | Implementación de funciones y validación técnica |
 | **Ivonne Cuevas** | Documentación y Control | Reportes, documentación técnica y administración del repositorio |
 
-> Todas podrán apoyar en otras áreas cuando sea necesario para cumplir los entregables.
 
 ---
 
