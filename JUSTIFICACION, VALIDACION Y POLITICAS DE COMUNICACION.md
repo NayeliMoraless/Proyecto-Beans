@@ -1,5 +1,4 @@
-# Actividad 1: El Arquitecto de la Propuesta  
-##  Propuesta Final del Proyecto – **Proyecto Beans: Tu billetera simple y global**
+ ##  Propuesta Final del Proyecto – **Proyecto Beans**
 
 ---
 
